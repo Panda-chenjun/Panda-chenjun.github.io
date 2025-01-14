@@ -13,3 +13,6 @@ div.main {
 	right: 100px;
 	top: 100px;
 }
+div.main > *{
+	padding-left: 10px;
+}
