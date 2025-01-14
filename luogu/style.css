@@ -9,7 +9,7 @@ div.main {
     line-height: 26px;
 	position: absolute;
 	margin: auto;
-	left: 0px;
-	right: 0px;
+	left: 100px;
+	right: 100px;
 	top: 100px;
 }
