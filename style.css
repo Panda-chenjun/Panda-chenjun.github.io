@@ -7,4 +7,15 @@ div.main {
     /* box-shadow: 0 1px 10px 0 rgba(0,0,0,.08); */
     font-size: 15px;
     line-height: 26px;
+	position: absolute;
+	margin: auto;
+	left: 100px;
+	right: 100px;
+	top: 100px;
+}
+div.main > *{
+	padding-left: 10px;
+}
+.center{
+	text-align: center;
 }
