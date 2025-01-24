@@ -29,26 +29,3 @@ div.main > *{
 	flex-wrap: wrap;
 	justify-content: center;
 }
-.container > *{
-	margin: 10px;
-	flex-basis: 250px;
-	max-width: 400px;
-}
-.container > * > *{
-	margin: 10px;
-}
-.container > * > * > *{
-	margin: 10px;
-}
-.container > * > * > * > *{
-	margin: 10px;
-}
-.container > * > * > * > * > *{
-	margin: 10px;
-}
-.container > * > * > * > * > * > *{
-	margin: 10px;
-}
-.container > * > * > * > *{
-	margin: 10px;
-}
