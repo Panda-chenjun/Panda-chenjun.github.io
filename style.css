@@ -19,3 +19,36 @@ div.main > *{
 .center{
 	text-align: center;
 }
+.bg1{
+	background-color: #ddd;
+	border-radius: 20%;
+	padding: 10px;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.container > *{
+	margin: 10px;
+	flex-basis: 250px;
+	max-width: 400px;
+}
+.container > * > *{
+	margin: 10px;
+}
+.container > * > * > *{
+	margin: 10px;
+}
+.container > * > * > * > *{
+	margin: 10px;
+}
+.container > * > * > * > * > *{
+	margin: 10px;
+}
+.container > * > * > * > * > * > *{
+	margin: 10px;
+}
+.container > * > * > * > *{
+	margin: 10px;
+}
